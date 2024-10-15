@@ -39,10 +39,6 @@ gdjs.End_32ScreenCode.eventsList0 = function(runtimeScene) {
 
 let isConditionTrue_0 = false;
 isConditionTrue_0 = false;
-{isConditionTrue_0 = runtimeScene.getOnceTriggers().triggerOnce(16253076);
-}
-if (isConditionTrue_0) {
-isConditionTrue_0 = false;
 {let isConditionTrue_1 = false;
 isConditionTrue_0 = false;
 {
@@ -52,7 +48,6 @@ if(isConditionTrue_1) {
 }
 }
 {
-}
 }
 }
 if (isConditionTrue_0) {
