@@ -55,7 +55,7 @@ isConditionTrue_0 = false;
 isConditionTrue_0 = gdjs.evtTools.input.anyKeyPressed(runtimeScene);
 if (isConditionTrue_0) {
 isConditionTrue_0 = false;
-{isConditionTrue_0 = runtimeScene.getOnceTriggers().triggerOnce(12302828);
+{isConditionTrue_0 = runtimeScene.getOnceTriggers().triggerOnce(12297436);
 }
 }
 if (isConditionTrue_0) {
